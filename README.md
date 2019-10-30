@@ -37,6 +37,10 @@ Contains all the answer for the research questions and the core research questio
    
    [Goal: Create an arrow map for Jorginho and an other for Pjanic to visualize the direction of their passages]
 ## 2- theory.ipynb file :
-Which contains the answer to the theoretical questions.
+1. How much running time does it take to execute splitSwap(a, 0, n)? (Big O Analysis)
+
+2. What does this algorithm do? A glance at what the algorithm dose.
+
 ## 3-README.md:
+
 Simple markdown to explain the content of this repository .
